@@ -1,2 +1,3 @@
 # IaC-Utilities
-This repository contains Infrastructure-as-Code (IaC) tooling for auto-provisioning AWS and other Cloud provider-offered components for cyber security exercises.
+
+Welcome to the Infrastructure-as-Code (IAC) Utilities repository! This repository will enable you to leverage the Cloud to quickly provision modern Windows servers (complete with installed disassemblers, hex editors, and a host of other malware anlaysis tools) for malware analysis. It also enables quick access to DropBox for file storage and retrieval. The overall goal: give you quick-access to malware analysis tooling for learning and discovery. 
